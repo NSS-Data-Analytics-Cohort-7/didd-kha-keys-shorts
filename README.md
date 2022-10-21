@@ -26,3 +26,8 @@ After answering the above questions, additional areas you can look into are list
 * Does typical time of service differ for different eligibility categories?
 * Do exit reasons vary by eligibility category? Do more children in one eligibility category age out compared to leaving for other reasons?
 * In the "ECO with Exit21-22" sheet, columns D, E, and F contain the entry ECO scores, and columns H, I, and J contain the exit scores. Analyze these scores by looking at the typical improvement seen for each entry rating compared to the time of service. For example, what percentage of children entering with a score of 1 also exit with a score of 1? How many improve to a 2 or a 3? How does this vary by time of service? 
+
+
+Kha.keys(shorts) presentation link
+https://docs.google.com/presentation/d/1sDPNrAhxjndPfSFBDoJXSsyfLT8w6ub7FKuYPhGJ8rc/edit#slide=id.g16ff61afd76_0_8
+
